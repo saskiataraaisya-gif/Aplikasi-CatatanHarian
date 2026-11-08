@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#7A5600</color>
+    <color name="primary_dark">#5E4200</color>
+    <color name="accent">#7A5600</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="background">#FFFFFF</color>
+    <color name="note_card">#ECF0DC</color>
+    <color name="text_primary">#1C1C17</color>
+    <color name="text_secondary">#7F8374</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ic_launcher_background">#7A5600</color>
+</resources>

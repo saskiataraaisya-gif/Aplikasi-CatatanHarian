@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_dark_mode"
+        android:checkable="true"
+        android:title="@string/menu_dark_mode"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_font_size"
+        android:title="@string/menu_font_size"
+        app:showAsAction="never">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/font_small" android:title="@string/font_small" />
+                <item android:id="@+id/font_medium" android:title="@string/font_medium" />
+                <item android:id="@+id/font_large" android:title="@string/font_large" />
+            </group>
+        </menu>
+    </item>
+</menu>

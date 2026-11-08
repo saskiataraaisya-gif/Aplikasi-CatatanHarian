@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CatatanHarian" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Mode gelap: ikon dan teks terang -->
+    <style name="Theme.CatatanHarian.Toolbar" parent="ThemeOverlay.AppCompat.Dark" />
+
+    <style name="Theme.CatatanHarian.Popup" parent="ThemeOverlay.AppCompat.Dark" />
+</resources>

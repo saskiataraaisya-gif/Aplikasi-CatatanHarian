@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catatan Harian</string>
+    <string name="add_note">Tambah Catatan</string>
+    <string name="edit_note">Edit Catatan</string>
+    <string name="title_hint">Judul</string>
+    <string name="content_hint">Isi catatan</string>
+    <string name="save">Simpan</string>
+    <string name="title_required">Judul tidak boleh kosong</string>
+    <string name="note_added">Catatan berhasil disimpan</string>
+    <string name="note_updated">Catatan berhasil diperbarui</string>
+    <string name="empty_title">Belum ada catatan</string>
+    <string name="empty_subtitle">Ketuk tombol + untuk menulis catatan.</string>
+    <string name="delete_note_title">Hapus Catatan</string>
+    <string name="delete_note_message">Apakah Anda yakin ingin menghapus catatan ini?</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="edit">Edit</string>
+    <string name="menu_dark_mode">Mode gelap</string>
+    <string name="menu_font_size">Ukuran font</string>
+    <string name="font_small">Kecil</string>
+    <string name="font_medium">Sedang</string>
+    <string name="font_large">Besar</string>
+    <string name="page_title">Catatan</string>
+    <string name="folder_title">Folder</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_folder">Folder</string>
+    <string name="search_hint">Cari catatan</string>
+    <string name="selected_count">%1$d dipilih</string>
+    <string name="delete_selected_title">Hapus catatan</string>
+    <string name="delete_selected_message">Hapus %1$d catatan yang dipilih?</string>
+    <string name="notes_count">%1$d catatan</string>
+    <string name="folder_all">Semua</string>
+    <string name="folder_personal">Pribadi</string>
+    <string name="folder_campus">Kuliah</string>
+    <string name="folder_work">Pekerjaan</string>
+    <string name="folder_label">Folder catatan</string>
+</resources>
